@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://SarthakPaandey.github.io/portflioazure",
+  "homepage": "https://SarthakPaandey.github.io/portflioazure",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
